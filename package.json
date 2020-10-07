@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "a command-line role-playing game (RPG) in which a user battles against a series of enemies whose health and stats can be sustained by a potion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngeorge88/RPG-battle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngeorge88/RPG-battle/issues"
+  },
+  "homepage": "https://github.com/johngeorge88/RPG-battle#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
